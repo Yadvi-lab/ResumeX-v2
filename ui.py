@@ -22,7 +22,7 @@ html, body, .stApp {
 }
 
 #MainMenu, footer { visibility: hidden; }
-.block-container { max-width: 1280px; padding: 2rem 2.2rem 3rem 2.2rem; }
+.block-container { max-width: 1280px; padding: 4rem 2.2rem 3rem 2.2rem; }
 
 /* Sidebar & Navigation - high contrast on black/purple */
 [data-testid="stSidebar"] {
